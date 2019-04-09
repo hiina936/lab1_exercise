@@ -1,4 +1,5 @@
-# Lab Exercise
+# Lab Exercise (09/04/19)
+
 Using the text-edit of your choice (e.g., Atom), create a new file called `PROFILE.md`.
 
 In this exercise, you will create a mini profile of yourself.
