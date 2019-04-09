@@ -5,7 +5,7 @@ In this exercise, you will create a mini profile of yourself.
 
 In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
 
-Next, you will insert a photo of yourself using **relative path**.
+Next, using command line, create a directory within your current directory called "photo", save a photo of yourself into this directory, and insert that photo using **relative path** into this report.
 
 Then, write a little description about yourself with at least 2 different format stylings like **bold**, or *italicized*.
 
